@@ -36,7 +36,7 @@ Then, when you are finished, export as a CSV file (Numbers, Excel, and Sheets al
 **NOTE:** In the template .numbers spreadsheet provided, there are additional columns to count the characters for the desciptions and titles. App store connect has character limits on these fields, and the count box will go red if the title/description exceeds the character limit. For example:
 
 **Example CSV:** (in Numbers)
-![](Resources/screenshot-1.png)
+![Example CSV screenshot image](Resources/screenshot-1.png)
 Here, the description of the second achievement exceeds the rate limit of 255 characters, so the "Description length" box turns red, indicating that you should sorten it. Something similar happens with the points -- as the maximum points allowed between all achievements is 1,000 the points total at the bottom footer turns red if this is exceeded.
 
 NOTE: The box color turning red is only checked on Apple Numbers.
